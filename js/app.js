@@ -149,7 +149,7 @@ const util = (() => {
     };
 
     const tamu = () => {
-        let name = (new URLSearchParams(window.location.search)).get('to');
+        let name = (new URLSearchParams(window.location.search)).get('nama');
 
         if (!name) {
             document.getElementById('nama-tamu').remove();
@@ -996,3 +996,5 @@ const comment = (() => {
         kirim,
     };
 })();
+
+
