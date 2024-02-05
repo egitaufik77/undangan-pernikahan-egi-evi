@@ -706,6 +706,7 @@ const comment = (() => {
         </div>`;
         return DIV;
     };
+    
 
     const ucapan = async () => {
         const UCAPAN = document.getElementById('daftar-ucapan');
