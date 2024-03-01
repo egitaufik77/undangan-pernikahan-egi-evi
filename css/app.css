@@ -528,7 +528,7 @@ div.lowers-to-right{
 div.lowers{
 
     position: absolute;
-    bottom: 30px;
+    bottom: 36px;
     z-index: 1;
     margin-right: 10px;
 }
