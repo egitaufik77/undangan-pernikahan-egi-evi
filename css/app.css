@@ -395,7 +395,7 @@ body{
   left: 0;
   border-radius: 14px;
   background: rgb(63,94,251);
-  background: linear-gradient(90deg, rgb(52 223 215) 0%, rgba(52 223 215) 100%);
+  background: linear-gradient(90deg, rgb(36 178 171) 0%, rgba(52 223 215) 100%);
   opacity: 0.8;
 
 }
@@ -415,7 +415,7 @@ body{
   left: 0;
   border-radius: 14px;
   background: rgb(57, 225, 247);
-  background: linear-gradient(90deg, rgb(118, 217, 212) 0%, rgba(52 223 215) 100%);
+  background: linear-gradient(90deg, rgb(71 181 190) 0%, rgb(101 230 245) 100%);
   clip-path: polygon(28% 13%, 48% 45%, 75% 63%, 100% 99%, 0 100%, 0% 60%, 0 0);
 
 }
@@ -463,7 +463,7 @@ body{
 }
 
 
-  div.cards::before{
+    div.cards::before{
 
     height: 100%;
     width: 100%;
@@ -476,13 +476,13 @@ body{
     left: 0;
     border-radius: 14px;
     background: rgb(63,94,251);
-    background: linear-gradient(90deg, rgb(52 223 215) 0%, rgba(52 223 215) 100%);
+    background: linear-gradient(90deg, rgb(36 178 171) 0%, rgba(52 223 215) 100%);
     opacity: 0.8;
   
   }
   
   
-   
+  
   div.cards::after{
   
     height: 100%;
@@ -496,7 +496,7 @@ body{
     left: 0;
     border-radius: 14px;
     background: rgb(57, 225, 247);
-    background: linear-gradient(90deg, rgb(118, 217, 212) 0%, rgba(52 223 215) 100%);
+    background: linear-gradient(90deg, rgb(71 181 190) 0%, rgb(101 230 245) 100%);
     clip-path: polygon(28% 13%, 48% 45%, 75% 63%, 100% 99%, 0 100%, 0% 60%, 0 0);
   
   }
