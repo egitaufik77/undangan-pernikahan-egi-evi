@@ -398,8 +398,7 @@ body{
   right: 0;
   left: 0;
   border-radius: 14px;
-  background: rgb(63,94,251);
-  background: linear-gradient(90deg, rgb(36 178 171) 0%, rgb(6 216 231) 100%)   ;
+  background: linear-gradient(90deg, rgb(66 76 76) 0%, rgb(67 82 84) 100%);
   opacity: 0.8;
 
 }
@@ -418,8 +417,7 @@ body{
   right: 0;
   left: 0;
   border-radius: 14px;
-  background: rgb(57, 225, 247);
-  background: linear-gradient(90deg, rgb(86 193 202) 0%, rgb(48 233 255) 100%);
+  background: linear-gradient(90deg, rgb(104 112 113) 0%, rgb(104 117 120) 100%);
   clip-path: polygon(28% 13%, 48% 45%, 75% 63%, 100% 99%, 0 100%, 0% 60%, 0 0);
 
 }
@@ -479,8 +477,7 @@ body{
     right: 0;
     left: 0;
     border-radius: 14px;
-    background: rgb(63,94,251);
-    background: linear-gradient(90deg, rgb(36 178 171) 0%, rgb(6 216 231) 100%);
+    background: linear-gradient(90deg, rgb(66 76 76) 0%, rgb(67 82 84) 100%);
     opacity: 0.8;
   
   }
@@ -499,8 +496,7 @@ body{
     right: 0;
     left: 0;
     border-radius: 14px;
-    background: rgb(57, 225, 247);
-    background: linear-gradient(90deg, rgb(86 193 202) 0%, rgb(48 233 255) 100%);
+    background: linear-gradient(90deg, rgb(104 112 113) 0%, rgb(104 117 120) 100%);
     clip-path: polygon(28% 13%, 48% 45%, 75% 63%, 100% 99%, 0 100%, 0% 60%, 0 0);
   
   }
